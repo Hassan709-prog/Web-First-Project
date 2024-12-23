@@ -1,3 +1,3 @@
 #Web-First-Project
 <br>
-This is my first repoitory.
+This is my first repository.
